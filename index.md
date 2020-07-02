@@ -1,6 +1,7 @@
 ## Portfolio
 ### Description
-As an Aerospace Engineering student, I have participated in a number of projects, and leadership roles. From designing microgravity experiments, to acting as the President of a student organization, I have made efforts to expand my skills not only as an engineer, but a teammate as well. Shown below are a selection of projects I have participated in.
+As an Aerospace Engineering graduate from the University of Central Florida, I have developed my skills as an engineer as well as a teammate. I look forward to applying the leadership experience I gained through my role as President of the Students for the Exploration and Development of Space and participating in a number of projects, including microgravity experiement design, hybrid rocket design, as well as a numer of others as outlined in the work examples below.
+
 
 ---
 
