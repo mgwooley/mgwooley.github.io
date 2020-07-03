@@ -8,7 +8,7 @@ An essential skill learned during Dr. Kurt Stresau's senior design course is bei
 
 <img src="images/pughmatrix.jpg?raw=true" width="450" height ="450"/>
 <br>
-<img src="images/pughmatrix_graphical.jpg?raw=true" "width="450" />
+<img src="images/pughmatrix_graphical.jpg?raw=true" width="450" />
 
 ### 2. Assess assumptions on which statistical inference will be based
 
