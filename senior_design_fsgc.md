@@ -32,6 +32,7 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 <br>Cross-sectional view of full engine system.
 <br><br>
 <img src="images/motor_retainer_side.png?raw=true" width="500" />
+
 Custom engine retainer hardware design.
 
 ### 3. Support the selection of appropriate statistical tools and techniques
