@@ -10,12 +10,11 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 
 <div align="center">Pugh Matrix values used to make determinations for concept design selection </div>
 
-<br><br>
+<br>
 <img src="images/pughmatrix_graphical.jpg?raw=true" width="500" />
 <br>
-
 <div align="center">Graphical representation of pugh matrix scores </div>
-<br><br>
+<br>
 
 ### CAD utilizing SolidWorks
 
@@ -28,7 +27,7 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 
 <div align="center">Forward and aft views of full engine system. </div>
 
-<br><br>
+<br>
 <img src="images/motor_crosssection_side.png?raw=true" width="500" />
 <br>
 
@@ -38,7 +37,7 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 <img src="images/motor_retainer_side.png?raw=true" width="500" />
 
 <div align="center">Custom engine retainer hardware design. </div>
-<br><br>
+<br>
 
 ### CFD Utilizing ANSYS Fluent
 
