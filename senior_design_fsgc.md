@@ -9,14 +9,22 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 Pugh Matrix values used to make determinations for concept design selection 
 <br><br>
 <img src="images/pughmatrix_graphical.jpg?raw=true" width="450" />
+Graphical representation of pugh matrix scores
 
-### 2. Assess assumptions on which statistical inference will be based
+### CAD
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+For the FSGC Hybrid Rocket system, I was tasked with developing a full engine system CAD. This is comprised of a custom retainer design, bulkheads, and nozzle geometry. 
+
+<img src="images/motor_forward_side.png?raw=true" width="450" />
+<br>
+<img src="images/motor_aft_side.png?raw=true" width="450" />
+Forward and aft views of full engine system.
+<br><br>
+<img src="images/motor_crosssection_side.png?raw=true" width="450" />
+Cross-sectional view of full engine system.
+<br><br>
+<img src="images/motor_retainer_side.png?raw=true" width="450" />
+Custom engine retainer hardware design.
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
