@@ -20,15 +20,18 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 
 For the FSGC Hybrid Rocket system, I was tasked with developing a full engine system CAD. This is comprised of a custom retainer design, bulkheads, and nozzle geometry. 
 
-<img src="images/motor_forward_side.png?raw=true" width="450" />
+<img src="images/motor_forward_side.png?raw=true" width="500" />
 <br>
-<img src="images/motor_aft_side.png?raw=true" width="450" />
-<br>Forward and aft views of full engine system.
+<img src="images/motor_aft_side.png?raw=true" width="500" />
+<br>
+
+<div align="center">Forward and aft views of full engine system. </div>
+
 <br><br>
-<img src="images/motor_crosssection_side.png?raw=true" width="450" />
+<img src="images/motor_crosssection_side.png?raw=true" width="500" />
 <br>Cross-sectional view of full engine system.
 <br><br>
-<img src="images/motor_retainer_side.png?raw=true" width="450" />
+<img src="images/motor_retainer_side.png?raw=true" width="500" />
 Custom engine retainer hardware design.
 
 ### 3. Support the selection of appropriate statistical tools and techniques
