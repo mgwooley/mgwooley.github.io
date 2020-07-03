@@ -15,6 +15,7 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 <br>
 
 <div align="center">Graphical representation of pugh matrix scores </div>
+<br><br>
 
 ### CAD utilizing SolidWorks
 
@@ -37,8 +38,7 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 <img src="images/motor_retainer_side.png?raw=true" width="500" />
 
 <div align="center">Custom engine retainer hardware design. </div>
-
-
+<br><br>
 ### CFD Utilizing ANSYS Fluent
 
 In order to validate assumptions made for nose cone shape selection, I performed fluid flow simulations over the different profiles selected.
