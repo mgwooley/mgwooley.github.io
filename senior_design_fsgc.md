@@ -3,11 +3,11 @@
 ### Project Description 
 During the final semesters of the Aerospace Engineering program at UCF, every student is required to participate in Senior Design for two semesters. The team that I was paired with collectively chose to particiipate in the Florida Space Grant Consortium Hybrid Rocket Competition. While the competition never materialized due to COVID-19, the team was able to develop a mature vehicle design, as well as complete static fire engine testing. My specific contributions were a mix of several roles including but not limited to defining requirements based on customer requests, CAD design utilizing said requirements, and basic CFD analysis in order to characterize coefficients of drag. In addition to these technical roles, I was selected to be the "team lead" which involved my being the primary liason between the team and our advisor Kyle Davidson. 
 
-### Requirements Definition
-
-An essential skill learned during Dr. Kurt Stresau's senior design course is being able to construct requirements based on customer inputs. Utilizing pugh matrices, and risk assessment values, the team fully developed requirements and a clear understanding of risk associate with specific components. 
+### Concept Design
 
 <img src="images/pughmatrix.jpg?raw=true" width="450" height ="450"/>
+<br>
+Pugh Matrix values used to make determinations for concept design selection 
 <br><br>
 <img src="images/pughmatrix_graphical.jpg?raw=true" width="450" />
 
