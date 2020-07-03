@@ -7,7 +7,7 @@ As an Aerospace Engineering graduate from the University of Central Florida, I h
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/senior_design_fsgc)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
