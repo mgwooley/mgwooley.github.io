@@ -39,6 +39,7 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 
 <div align="center">Custom engine retainer hardware design. </div>
 <br><br>
+
 ### CFD Utilizing ANSYS Fluent
 
 In order to validate assumptions made for nose cone shape selection, I performed fluid flow simulations over the different profiles selected.
