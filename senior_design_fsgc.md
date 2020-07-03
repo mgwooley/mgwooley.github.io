@@ -6,9 +6,9 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 ### Concept Design
 
 <img src="images/pughmatrix.jpg?raw=true" width="450" height ="450"/>
-<br>->Pugh Matrix values used to make determinations for concept design selection<-
+<br><p align="center">Pugh Matrix values used to make determinations for concept design selection
 <br><br>
-<img src="images/pughmatrix_graphical.jpg?raw=true" width="450" />
+<img src="images/pughmatrix_graphical.jpg?raw=true" width="450" /p>
 ->Graphical representation of pugh matrix scores<-
 
 ### CAD
