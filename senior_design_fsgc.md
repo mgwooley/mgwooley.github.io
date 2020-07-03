@@ -4,7 +4,9 @@
 
 ### Requirements Definition
 
-An essential skill learned during Dr. Kurt Stresau's senior design course is being able to construct requirements based on customer inputs. 
+An essential skill learned during Dr. Kurt Stresau's senior design course is being able to construct requirements based on customer inputs. Utilizing pugh matrices, and risk assessment values, the team fully developed requirements and a clear understanding of risk associate with specific components. 
+
+<img src="images/pughmatrix.jpg?raw=true"/>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
