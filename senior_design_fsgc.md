@@ -43,10 +43,10 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 In order to validate assumptions made for nose cone shape selection, I performed fluid flow simulations over the different profiles selected.
 
 
-<img src="images/contour_54mm_ogive_PMC.png?raw=true" width="500" />
+<img src="images/pressure_contour_54mm_ogive_PMC.png?raw=true" width="500" />
 <br>
 <img src="images/velocity_contour_54mm_ogive_PMC.png?raw=true" width="500" />
 <br>
-<img src="images/pressure_and_velocity_contourstreamline_54mm_ogive_PMC.png?raw=true" width="500" />
+<img src="images/pressuire_and_velocity_contourstreamline_54mm_ogive_PMC.png?raw=true" width="500" />
 
 <div align="center">CFD Plots for velocity and pressure contours. The final image is both layers stacked. </div>
