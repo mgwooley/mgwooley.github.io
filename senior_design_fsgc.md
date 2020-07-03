@@ -16,7 +16,7 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 
 <div align="center">Graphical representation of pugh matrix scores </div>
 
-### CAD
+### CAD utilizing SolidWorks
 
 For the FSGC Hybrid Rocket system, I was tasked with developing a full engine system CAD. This is comprised of a custom retainer design, bulkheads, and nozzle geometry. 
 
@@ -38,12 +38,15 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 
 <div align="center">Custom engine retainer hardware design. </div>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### CFD Utilizing ANSYS Fluent
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In order to validate assumptions made for nose cone shape selection, I performed fluid flow simulations over the different profiles selected.
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/contour_54mm_ogive_PMC.png?raw=true" width="500" />
+<br>
+<img src="images/velocity_contour_54mm_ogive_PMC.png?raw=true" width="500" />
+<br>
+<img src="images/pressure_and_velocity_contourstreamline_54mm_ogive_PMC.png?raw=true" width="500" />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div align="center">CFD Plots for velocity and pressure contours. The final image is both layers stacked. </div>
