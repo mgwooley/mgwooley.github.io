@@ -52,6 +52,7 @@ In order to validate assumptions made for nose cone shape selection, I performed
 
 <div align="center">CFD Plots for velocity and pressure contours. The final image is both layers stacked. </div>
 
+
 ### Manufacturing Utilizing Conventional Mill & Lathe
 
 Given my background in machining, the team tasked me with manufacturing specific compnents of the system. Due to COVID-19, the retainer system never materialized. One nozzle was produced for testing, however. 
