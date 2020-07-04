@@ -72,4 +72,4 @@ Given my background in machining, the team tasked me with manufacturing specific
 
 In collaboration with a few members of the team, I assisted in setting up the engine for static fire testing, and the subsequent collection and processing of the data. 
 
-
+[![Static Fire](images/video_capture.png)](https://youtu.be/YkVlXve32s0 "Static Fire - click to watch!)
