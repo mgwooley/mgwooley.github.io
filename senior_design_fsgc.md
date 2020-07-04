@@ -6,38 +6,23 @@ During the final semesters of the Aerospace Engineering program at UCF, every st
 ### Concept Design
 
 <img src="images/pughmatrix.jpg?raw=true" width="500" />
-<br>
-
 <div align="center">Pugh Matrix values used to make determinations for concept design selection </div>
-
-<br>
 <img src="images/pughmatrix_graphical.jpg?raw=true" width="500" />
-<br>
 <div align="center">Graphical representation of pugh matrix scores </div>
-<br>
+
 
 ### CAD utilizing SolidWorks
 
 For the FSGC Hybrid Rocket system, I was tasked with developing a full engine system CAD. This is comprised of a custom retainer design, bulkheads, and nozzle geometry. 
 
 <img src="images/motor_forward_side.png?raw=true" width="500" />
-<br>
 <img src="images/motor_aft_side.png?raw=true" width="500" />
-<br>
-
 <div align="center">Forward and aft views of full engine system. </div>
-
-<br>
 <img src="images/motor_crosssection_side.png?raw=true" width="500" />
-<br>
-
 <div align="center">Cross-sectional view of full engine system. </div>
-
-<br><br>
 <img src="images/motor_retainer_side.png?raw=true" width="500" />
-
 <div align="center">Custom engine retainer hardware design. </div>
-<br>
+
 
 ### CFD Utilizing ANSYS Fluent
 
@@ -45,11 +30,8 @@ In order to validate assumptions made for nose cone shape selection, I performed
 
 
 <img src="images/pressure_contour_54mm_ogive_PMC.png?raw=true" width="500" />
-<br>
 <img src="images/velocity_contour_54mm_ogive_PMC.png?raw=true" width="500" />
-<br>
 <img src="images/pressuire_and_velocity_contourstreamline_54mm_ogive_PMC.png?raw=true" width="500" />
-
 <div align="center">CFD Plots for velocity and pressure contours. The final image is both layers stacked. </div>
 
 
@@ -58,13 +40,9 @@ In order to validate assumptions made for nose cone shape selection, I performed
 Given my background in machining, the team tasked me with manufacturing specific components of the system. Due to COVID-19, the retainer system never materialized. One nozzle was produced for testing, however. 
 
 <img src="images/nozzle_on_latahe.JPG?raw=true" width="500" />
-
 <div align="center">Graphite stock mounted on a lathe prior to final cuts </div>
-
 <img src="images/nozzle_final_1.JPG?raw=true" width="500" />
-
 <img src="images/nozzle_final_2.JPG?raw=true" width="500" />
-
 <div align="center">Finished lathe for engine testing. </div>
 
 
