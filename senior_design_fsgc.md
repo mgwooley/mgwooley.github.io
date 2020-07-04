@@ -17,12 +17,12 @@ For the FSGC Hybrid Rocket system, I was tasked with developing a full engine sy
 
 <img src="images/motor_forward_side.png?raw=true" width="500" />
 <img src="images/motor_aft_side.png?raw=true" width="500" />
-<div align="center">Forward and aft views of full engine system. </div>
+<div align="center">Forward and aft views of full engine system. </div> <br><br>
 <img src="images/motor_crosssection_side.png?raw=true" width="500" />
-<div align="center">Cross-sectional view of full engine system. </div>
+<div align="center">Cross-sectional view of full engine system. </div> <br><br>
 <img src="images/motor_retainer_side.png?raw=true" width="500" />
 <div align="center">Custom engine retainer hardware design. </div>
-
+<br>
 
 ### CFD Utilizing ANSYS Fluent
 
@@ -33,18 +33,18 @@ In order to validate assumptions made for nose cone shape selection, I performed
 <img src="images/velocity_contour_54mm_ogive_PMC.png?raw=true" width="500" />
 <img src="images/pressuire_and_velocity_contourstreamline_54mm_ogive_PMC.png?raw=true" width="500" />
 <div align="center">CFD Plots for velocity and pressure contours. The final image is both layers stacked. </div>
-
+<br>
 
 ### Manufacturing Utilizing Conventional Mill & Lathe
 
 Given my background in machining, the team tasked me with manufacturing specific components of the system. Due to COVID-19, the retainer system never materialized. One nozzle was produced for testing, however. 
 
 <img src="images/nozzle_on_latahe.JPG?raw=true" width="500" />
-<div align="center">Graphite stock mounted on a lathe prior to final cuts </div>
+<div align="center">Graphite stock mounted on a lathe prior to final cuts </div> <br><br>
 <img src="images/nozzle_final_1.JPG?raw=true" width="500" />
 <img src="images/nozzle_final_2.JPG?raw=true" width="500" />
 <div align="center">Finished lathe for engine testing. </div>
-
+<br>
 
 ### Engine Testing
 
