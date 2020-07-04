@@ -56,13 +56,13 @@ In order to validate assumptions made for nose cone shape selection, I performed
 
 Given my background in machining, the team tasked me with manufacturing specific compnents of the system. Due to COVID-19, the retainer system never materialized. One nozzle was produced for testing, however. 
 
-<img src="images/nozzle_on_latahe.jpg?raw=true" width="500" />
+<img src="images/nozzle_on_latahe.JPG?raw=true" width="500" />
 
 <div align="center">Graphite stock mounted on a lathe prior to final cuts </div>
 
-<img src="images/nozzle_final_1.jpg?raw=true" width="500" />
+<img src="images/nozzle_final_1.JPG?raw=true" width="500" />
 
-<img src="images/nozzle_final_2.jpg?raw=true" width="500" />
+<img src="images/nozzle_final_2.JPG?raw=true" width="500" />
 
 <div align="center">Finished lathe for engine testing. </div>
 
