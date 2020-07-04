@@ -14,6 +14,6 @@ While this work was shared across several teammates, my design contributions wer
 
 <div align="center">Closeup view of electronics bay </div>
 
-<img src="images/prime_r_vacuum.png?raw=true" width="500" />
+<img src="images/prime_r_vaccum.png?raw=true" width="500" />
 
 <div align="center">Closeup view of vacuum chamber with walls transparent </div>
