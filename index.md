@@ -11,8 +11,8 @@ As an Aerospace Engineering graduate from the University of Central Florida, I h
 <img src="images/full_system.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SEDS-UCF IREC Payload Team Lead](/seds_ucf_irec_payload_teamlead)
+<img src="images/payload_team.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
