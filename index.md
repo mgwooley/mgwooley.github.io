@@ -7,7 +7,7 @@ As an Aerospace Engineering graduate from the University of Central Florida, I h
 
 ### Category Name 1 
 
-[FSGC Hybrid Rocket "Gold" Senior Desitn Team](/senior_design_fsgc)
+[FSGC Hybrid Rocket "Gold" Senior Design Team](/senior_design_fsgc)
 <img src="images/full_system.png?raw=true"/>
 
 ---
