@@ -17,3 +17,7 @@ While this work was shared across several teammates, my design contributions wer
 <img src="images/prime_r_vaccum.png?raw=true" width="500" />
 
 <div align="center">Closeup view of vacuum chamber with walls transparent </div>
+
+### Promotional Video
+
+[![Promo Video](images/irec_video_capture.png)](https://www.youtube.com/watch?v=WiQ83r98UaE "IREC 17-18 Promo Video - click to watch!")
