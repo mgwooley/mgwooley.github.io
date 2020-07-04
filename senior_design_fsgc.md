@@ -55,7 +55,7 @@ In order to validate assumptions made for nose cone shape selection, I performed
 
 ### Manufacturing Utilizing Conventional Mill & Lathe
 
-Given my background in machining, the team tasked me with manufacturing specific compnents of the system. Due to COVID-19, the retainer system never materialized. One nozzle was produced for testing, however. 
+Given my background in machining, the team tasked me with manufacturing specific components of the system. Due to COVID-19, the retainer system never materialized. One nozzle was produced for testing, however. 
 
 <img src="images/nozzle_on_latahe.JPG?raw=true" width="500" />
 
@@ -66,4 +66,10 @@ Given my background in machining, the team tasked me with manufacturing specific
 <img src="images/nozzle_final_2.JPG?raw=true" width="500" />
 
 <div align="center">Finished lathe for engine testing. </div>
+
+
+### Engine Testing
+
+In collaboration with a few members of the team, I assisted in setting up the engine for static fire testing, and the subsequent collection and processing of the data. 
+
 
