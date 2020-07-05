@@ -1,6 +1,6 @@
 ## Portfolio
 ### Description
-As an Aerospace Engineering graduate from the University of Central Florida, I have developed my skills as an engineer as well as a teammate. I look forward to applying the leadership experience I gained through my role as President of the Students for the Exploration and Development of Space and participating in a number of projects, including microgravity experiement design, hybrid rocket design, as well as a numer of others as outlined in the work examples below.
+As an Aerospace Engineering graduate from the University of Central Florida, I have developed my skills as an engineer as well as a teammate. I look forward to applying the leadership experience I gained through my role as President of the Students for the Exploration and Development of Space and participating in a number of projects, including microgravity experiment design, hybrid rocket design, as well as a number of others as outlined in the work examples below.
 
 
 ---
